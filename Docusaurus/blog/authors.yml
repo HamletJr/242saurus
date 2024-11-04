@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+HamletJr:
+  name: Joshua Montolalu
+  title: Penggemar Salad Buah
+  url: https://github.com/HamletJr
+  image_url: https://github.com/HamletJr.png
+
+stefarion:
+  name: Stefanus Tan Jaya
+  title: Penggemar Firefly
+  url: https://github.com/stefarion
+  image_url: https://github.com/stefarion.png
